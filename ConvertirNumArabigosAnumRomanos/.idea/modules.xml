@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DeNumerosAromanos.iml" filepath="$PROJECT_DIR$/DeNumerosAromanos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConvertirNumArabigosAnumRomanos.iml" filepath="$PROJECT_DIR$/ConvertirNumArabigosAnumRomanos.iml" />
     </modules>
   </component>
 </project>
